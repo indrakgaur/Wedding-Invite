@@ -37,8 +37,8 @@
 .inner{
     position: relative;
     background-color: bisque;
-    width: 50vh;
-    height: 78vh;
+    width: 55vh;
+    height: 80vh;
     bottom: 7%;
 }
 
@@ -76,9 +76,9 @@
 }
   
 .inner{
-    bottom: 7%;
+    bottom: 13%;
     width: 45vh;
-    height: 80vh;
+    height: 70vh;
 }
 
 .upper-border{
