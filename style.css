@@ -5,7 +5,7 @@
 
 .upper-border{
     width: 100%;
-    height: 15vh;
+    height: 10vh;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -13,7 +13,7 @@
 }
 
  .lower-border{
-    height: 15vh;
+    height: 10vh;
     padding: 0px 15px 15px 0px;
     display: flex;
     flex-direction: column;
@@ -23,11 +23,11 @@
 }
 
 .middle{
-    background-image: url(./annie-spratt-OWq8w3BYMFY-unsplash.jpg);
+    background-image: url(./backgroundDesktop\(Annie-Spratt\).jpg);
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: 110%;
     width: 100%;
-    height: 70vh;
+    height: 80vh;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -38,13 +38,13 @@
     position: relative;
     background-color: bisque;
     width: 20%;
-    height: 65vh;
-    bottom: 65px;
+    height: 78vh;
+    bottom: 7%;
 }
 
 .flower-div{
     height: 50%; 
-    width: 5%;
+    width: 4%;
     margin-top: 10px;
     display: flex;
     justify-content: center;
@@ -72,27 +72,28 @@
      
 .flower-div{
    
-    width: 15%;
+    width: 12%;
 }
   
 .inner{
-    bottom: 13%;
+    bottom: 7%;
     width: 70%;
+    height: 80vh;
 }
 
 .upper-border{
-    height: 10vh;
+    height: 7vh;
 }
 
 .lower-border{
-    height: 15vh;
+    height: 7vh;
 }
 
 .middle{
-    background-image: url(./annie-spratt-OWq8w3BYMFY-unsplash.jpg);
-    background-repeat: no-repeat;
-    background-size: 600%;
-    height: 75vh;
+    background-image: url(./backgroundMobile\(Annie-Spratt\).jpg);
+    background-repeat: repeat-y;
+    background-size: 100%;
+    height: 86vh;
 }
  
 }
